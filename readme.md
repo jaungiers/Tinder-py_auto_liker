@@ -1,0 +1,5 @@
+<h1>Tinder-Py Auto Liker</h1>
+<p>
+This simple python program was developed both out of curiosity to see how Tinders internal API communicates and to allow for systematic, unsupervised liking of profiles, as living in a large city such as London has meant that the market has become super-saturated. This has lead to the majority of guys using the swipe right for all to increase their chance of getting any sort of match, which in turn has saturated the market even further (as currently Tinder queues the people who have liked a profile in that profiles first recommendations). So in an attempt to beat through this crowd movement (and yes, I do realise this is a case of "if you can't beat them join them") the tinder-py_auto_liker script will carry on liking all profiles that become available based on your predefined search paramters.
+</p>
+<p><i>Please Tinder Responsibly ;)</i></p>
